@@ -1,0 +1,19 @@
+{
+  "title": "Accès illimité<br>à toutes les fonctionnalités",
+  "func1": "Documents illimités",
+  "func2": "Mode décompte",
+  "func3": "Reconnaissance de texte (OCR)",
+  "monthly": "Tous les mois",
+  "monthly-cost": "<strong>{{price}}</strong><br>par mois",
+  "free": "3 JOURS GRATUITS",
+  "cost-month": "{{price}}/mois",
+  "annually": "Tous les ans",
+  "discount": "-83%",
+  "annually-cost": "<strong>{{price}}</strong><br>par an",
+  "popular": "LE PLUS POPULAIRE",
+  "btn": "Continuer",
+  "subtitle": "Renouvelable automatiquement. Annulez à tout moment.",
+  "terms": "Conditions d'utilisation",
+  "restore": "Restaurer",
+  "privacy": "Politique de confidentialité"
+}

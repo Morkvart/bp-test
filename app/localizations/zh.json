@@ -1,0 +1,19 @@
+{
+  "title": "无限制使用<br>所有功能",
+  "func1": "文档无限制",
+  "func2": "计数模式",
+  "func3": "文本识别（OCR）",
+  "monthly": "每月",
+  "monthly-cost": "<strong>{{price}}</strong>每月<br>",
+  "free": "3日免费",
+  "cost-month": "{{price}}/月",
+  "annually": "包年",
+  "discount": "-83%",
+  "annually-cost": "每年<strong>{{price}}</strong><br>",
+  "popular": "最热门",
+  "btn": "继续",
+  "subtitle": "自动续订。可随时取消。",
+  "terms": "使用条款",
+  "restore": "恢复",
+  "privacy": "隐私政策"
+}

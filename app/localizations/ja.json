@@ -1,0 +1,19 @@
+{
+  "title": "全ての機能へ<br>無制限アクセス",
+  "func1": "無制限のドキュメント",
+  "func2": "カウントモード",
+  "func3": "テキスト認識 (OCR)",
+  "monthly": "月次",
+  "monthly-cost": "<strong>{{price}}</strong><br>/月",
+  "free": "3日間無料",
+  "cost-month": "{{price}}/か月",
+  "annually": "年次",
+  "discount": "-83%",
+  "annually-cost": "<strong>{{price}}</strong><br>/年",
+  "popular": "一番人気",
+  "btn": "続行する",
+  "subtitle": "自動更新可能。いつでもキャンセル可能。",
+  "terms": "利用規約",
+  "restore": "復元する",
+  "privacy": "プライバシーポリシー"
+}

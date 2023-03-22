@@ -1,0 +1,19 @@
+{
+  "title": "Unlimited Access<br>to All Features",
+  "func1": "Unlimited documents",
+  "func2": "Count mode",
+  "func3": "Text recognition (OCR)",
+  "monthly": "Monthly",
+  "monthly-cost": "<strong>{{price}}</strong><br>per month",
+  "free": "3 DAYS FREE",
+  "cost-month": "{{price}}/month",
+  "annually": "Annually",
+  "discount": "-83%",
+  "annually-cost": "<strong>{{price}}</strong><br>per year",
+  "popular": "MOST POPULAR",
+  "btn": "Continue",
+  "subtitle": "Auto-renewable. Cancel anytime.",
+  "terms": "Terms of Use",
+  "restore": "Restore",
+  "privacy": "Privacy Policy"
+}
