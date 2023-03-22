@@ -90,6 +90,10 @@ function setContent(json) {
     document.getElementsByClassName('main__link')[0].textContent = json.terms;
     document.getElementsByClassName('main__link')[1].textContent = json.privacy;
     document.querySelector('.restore__text').textContent = json.restore;
+
+    if (currentLanguage == 'ru' || currentLanguage == 'es' || currentLanguage == 'nl') {
+        document.querySelector('.main__title').style.fontSize = '32px';
+    }
 }
 
 
